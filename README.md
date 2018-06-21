@@ -1,9 +1,5 @@
 # Python4ML
 A little documentation of my experience in Machine Learning using Python.
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
-from tqdm import tqdm
+The objective of this repository is to show some of the things that helped me learn Machine Learning. This will contain a notebook about Pandas, Scikit-Learn, Keras, and other libraries that I may discover. I hope it helps anyone who's starting their journey through Machine Learning.
 
